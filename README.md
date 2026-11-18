@@ -4,6 +4,9 @@
 This project presents an end-to-end sales and profitability analysis using the Sample Superstore dataset. The analysis was performed in Microsoft Excel to explore sales performance, profitability, customer segments, regional performance and product trends.
 
 The project includes data preparation, PivotTable analysis, PivotCharts and an interactive Excel dashboard.
+## Dashboard Preview
+
+![Sample Superstore Sales Dashboard](dashboard-preview.png)
 
 ## Project Objectives
 - Analyse overall sales and profit performance.
